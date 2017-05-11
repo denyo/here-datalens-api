@@ -1,0 +1,15 @@
+{
+  "name": "here-datalens-api",
+  "version": "1.0.0",
+  "description": "Here Datalens API",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denyo/here-datalens-api.git"
+  },
+  "author": "Bernd Hacker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denyo/here-datalens-api/issues"
+  },
+  "homepage": "https://github.com/denyo/here-datalens-api"
+}
