@@ -1,4 +1,4 @@
-## Here Data Lens API
+## Here Data Lens API v2.3.0-40
 
 This package contains the following files of HERE Data Lens in order to bundle them within your own project.
 
